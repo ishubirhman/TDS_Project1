@@ -1,4 +1,3 @@
-# DISCLAIMER: THIS SCRIPT WILL CHANGE BEFORE THE EVALUATION. TREAT THIS AS A GUIDE.
 
 # Usage: uv run datagen.py <email>
 
@@ -296,4 +295,3 @@ if __name__ == "__main__":
     a9_comments()
     a10_ticket_sales()
 
-# DISCLAIMER: THIS SCRIPT WILL CHANGE BEFORE THE EVALUATION. TREAT THIS AS A GUIDE.
